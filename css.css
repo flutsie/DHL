@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #fff;
+}
+
+.topbar {
+  background: linear-gradient(to right, #f4c21b, #fdeca5);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  color: #b30000;
+}
+
+h1 {
+  text-align: left;
+  padding: 40px 20px 10px 20px;
+  color: #b30000;
+  font-size: 40px;
+}
+
+.trackbox {
+  background: #f3f3f3;
+  padding: 30px;
+}
+
+.trackbox input {
+  width: 100%;
+  padding: 15px;
+  font-size: 18px;
+  margin-bottom: 15px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+}
+
+.trackbox button {
+  width: 100%;
+  padding: 15px;
+  font-size: 22px;
+  color: white;
+  background: #c5241b;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+p{
+  margin: 1em;
+}
